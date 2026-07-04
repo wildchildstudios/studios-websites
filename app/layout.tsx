@@ -17,6 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link
           href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i"
           rel="stylesheet"
